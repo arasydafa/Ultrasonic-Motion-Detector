@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ultrasonic Motion Detector", "Ultrasonic Motion Detector.csproj", "{1631FCE7-8315-4684-9B44-7D6BD21A0783}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1631FCE7-8315-4684-9B44-7D6BD21A0783}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1631FCE7-8315-4684-9B44-7D6BD21A0783}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1631FCE7-8315-4684-9B44-7D6BD21A0783}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1631FCE7-8315-4684-9B44-7D6BD21A0783}.Debug|x86.Build.0 = Debug|Any CPU
+		{1631FCE7-8315-4684-9B44-7D6BD21A0783}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1631FCE7-8315-4684-9B44-7D6BD21A0783}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1631FCE7-8315-4684-9B44-7D6BD21A0783}.Release|x86.ActiveCfg = Release|Any CPU
+		{1631FCE7-8315-4684-9B44-7D6BD21A0783}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EA403BD-2B1D-4B4D-9299-8F2AF97BC553}
+	EndGlobalSection
+EndGlobal

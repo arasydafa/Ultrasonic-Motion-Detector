@@ -1,0 +1,20 @@
+C:\Users\USER\source\repos\Project 3 Shella\Project 3 Shella\bin\Debug\Ultrasonic Motion Detector.exe.config
+C:\Users\USER\source\repos\Project 3 Shella\Project 3 Shella\bin\Debug\Ultrasonic Motion Detector.exe
+C:\Users\USER\source\repos\Project 3 Shella\Project 3 Shella\bin\Debug\Ultrasonic Motion Detector.pdb
+C:\Users\USER\source\repos\Project 3 Shella\Project 3 Shella\obj\Debug\Ultrasonic Motion Detector.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Project 3 Shella\Project 3 Shella\obj\Debug\Ultrasonic_Motion_Detector.Form1.resources
+C:\Users\USER\source\repos\Project 3 Shella\Project 3 Shella\obj\Debug\Ultrasonic_Motion_Detector.Properties.Resources.resources
+C:\Users\USER\source\repos\Project 3 Shella\Project 3 Shella\obj\Debug\Ultrasonic Motion Detector.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Project 3 Shella\Project 3 Shella\obj\Debug\Ultrasonic Motion Detector.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Project 3 Shella\Project 3 Shella\obj\Debug\Ultrasonic Motion Detector.exe
+C:\Users\USER\source\repos\Project 3 Shella\Project 3 Shella\obj\Debug\Ultrasonic Motion Detector.pdb
+C:\Users\USER\source\repos\Project 3 Shella\bin\Debug\Ultrasonic Motion Detector.exe.config
+C:\Users\USER\source\repos\Project 3 Shella\bin\Debug\Ultrasonic Motion Detector.exe
+C:\Users\USER\source\repos\Project 3 Shella\bin\Debug\Ultrasonic Motion Detector.pdb
+C:\Users\USER\source\repos\Project 3 Shella\obj\Debug\Ultrasonic Motion Detector.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Project 3 Shella\obj\Debug\Ultrasonic_Motion_Detector.Form1.resources
+C:\Users\USER\source\repos\Project 3 Shella\obj\Debug\Ultrasonic_Motion_Detector.Properties.Resources.resources
+C:\Users\USER\source\repos\Project 3 Shella\obj\Debug\Ultrasonic Motion Detector.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Project 3 Shella\obj\Debug\Ultrasonic Motion Detector.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Project 3 Shella\obj\Debug\Ultrasonic Motion Detector.exe
+C:\Users\USER\source\repos\Project 3 Shella\obj\Debug\Ultrasonic Motion Detector.pdb
